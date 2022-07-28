@@ -8,6 +8,9 @@
 .overley{
   filter: brightness(40%);
 }
+.work-img-height{
+  height: 600px;
+}
 
 @media only screen and (max-width:576px) {
   .carousel-caption h1{
